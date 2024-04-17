@@ -2,7 +2,7 @@
 
 ## Description:
 
-Stay organized and on top of your finances with this comprehensive January Monthly Expenses Excel Budget Template. Designed to help you track and manage your expenses efficiently, this template offers a clear and user-friendly layout.
+Stay organized and on top of your finances with this comprehensive  Monthly Expenses Excel Budget Template. Designed to help you track and manage your expenses efficiently, this template offers a clear and user-friendly layout.
 
 ### Key Features:
 
