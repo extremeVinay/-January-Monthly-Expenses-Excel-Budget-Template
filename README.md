@@ -1,4 +1,4 @@
-# Title: January Monthly Expenses Excel Budget Template
+# Title: Monthly Expenses Excel Budget Template
 
 ## Description:
 
